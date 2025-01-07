@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image {
+    height: 40vh;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.a-1 {
+    text-align: center;
+    height: 90px;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 20px;
+    padding: 4px;
+}
+
+.para {
+    font-family: "Bree Serif";
+    color: #616e7c;
+    font-size: 10px;
+    padding: 4px;
+}
+
+.image-1 {
+    width: 150px;
+    height: 90px;
+    margin-top: 7px;
+    margin-left: 5px;
+}
+
+.background-food {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.box-food {
+    background-color: #f6c56e;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 35vh;
+    text-align: left;
+}
+
+.bg-food {
+    padding: 15px;
+}
+
+.heading-food {
+    font-family: "Bree Serif";
+    color: #323f4b;
+}
+
+.text-food {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.background-tech {
+    background-image: url(' https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-tech {
+    background-color: #ffffff;
+    height: 30vh;
+    padding: 20px;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+    background-size: cover;
+    text-align: left;
+}
+
+.heading-tech {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.para-tech {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.bottom1-tech {
+    background-color: #ffffff;
+    color: #171f46;
+    border-color: #d7dfe9;
+    border-radius: 10px;
+    border-width: 1px;
+    margin: 8px;
+    padding: 8px;
+}
+
+.bottom2-tech {
+    background-color: #5752ab;
+    color: #ffffff;
+    border-color: #d7dfe9;
+    border-radius: 10px;
+    border-width: 1px;
+    margin: 8px;
+    padding: 8px;
+}
+
+.background-news {
+    background-image: url(' https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-news {
+    background-color: #ffffff;
+    padding: 25px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 40vh;
+}
+
+.heading-news {
+    color: #323f4b;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.para-news {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.bottom1-news {
+    background-color: #323f4b;
+    color: #ffffff;
+    border-radius: 10px;
+    border-width: 0px;
+    margin: 8px;
+    padding: 8px;
+    font-family: "Roboto";
+}
+
+.bottom2-news {
+    border-radius: 10px;
+    border-width: 0px;
+    margin: 8px;
+    padding: 8px;
+    font-family: "Roboto";
+}
+
+.top-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.top-container-heading {
+    font-family: "Caveat";
+    color: white;
+    width: 240px;
+    font-size: 30px;
+    padding: 40px;
+}
+
+.down-container {
+    background-color: #e6f6ff;
+    height: 70vh;
+    text-align: center;
+    background-size: cover;
+
+}
+
+.card-items {
+    padding: 1px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 20px;
+    width: 140px;
+
+
+}
+
+.card-item-image {
+    height: 70px;
+    width: 60px;
+}
+
+.card-item-text {
+    font-family: "Roboto";
+    font-size: 10px;
+    padding: 10px;
+    color: #616e7c;
+}
+
+.card-item-cost {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: bold;
+    color: #323f4b;
+
+}
